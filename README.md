@@ -1,16 +1,27 @@
-### Hi there 👋
+<img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**iberthyallano/iberthyallano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<h2 align="left">Olá Mundo! Bem-vindo ao meu GitHub 👋</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br/>
+<p align="left"> 
+    Me chamo Iberthy Allano e sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software, por aprender novas ferramentas e conhecer novas pessoas. Estou sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas.
+</p>
+
+<br/>
+
+### 🎓 Formação:
+- <p>Análise e Desenvolvimento de Sistemas - UFRN<br></p>
+
+<br/>
+
+---
+
+<p align="left">
+     <a href="https://www.linkedin.com/in/iberthy-allano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
